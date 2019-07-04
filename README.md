@@ -1,7 +1,7 @@
 # Timeleap-Punisher
 an Extreme version of Roko's basilisk
 
-Author: Jieming Ji
+Author: Jieming Ji <br />
 Date: 2019-07-04
 
 It has been inspired by Roko's basilisk, 
